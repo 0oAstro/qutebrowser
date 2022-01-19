@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src=",/assets/qutebrowser.png"/>
+  <img src="./assets/qutebrowser.png"/>
 </p>
 
 ## Usage
